@@ -40,7 +40,7 @@
 
 ### Deployment
 
- ***The website can currently be visited [hier](http://client-management-v1.s3-website.eu-central-1.amazonaws.com) .***
+ ***The website can currently be visited [hier](https://booking.atrous.de) .***
 
 Thank you for checking this out!
 Feel free to leave me some *feedback*.
