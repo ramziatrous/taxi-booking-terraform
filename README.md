@@ -12,7 +12,7 @@
 
 ## How it works :
 
-- The client book a taxi in our wibsite.
+- The client book a taxi in our website.
 
 - the website send post request with all the informations of the client to SQS queue throw API Gateway.
 
